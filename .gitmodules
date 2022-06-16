@@ -1,0 +1,3 @@
+[submodule "winql"]
+	path = winql
+	url = https://github.com/microsoft/Windows-Driver-Developer-Supplemental-Tools.git

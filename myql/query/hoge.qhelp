@@ -1,0 +1,16 @@
+<!DOCTYPE qhelp PUBLIC
+  "-//Semmle//qhelp//EN"
+  "qhelp.dtd">
+<qhelp>
+<overview>
+<p>hoge: <a href="https://sciencepark.co.jp/">Sciencepark</a>.</p>
+</overview>
+
+<recommendation>
+<p>hoge hoge.</p>
+</recommendation>
+
+<references>
+<li><a href="https://sciencepark.co.jp/">Sciencepark</a></li>
+</references>
+</qhelp>
